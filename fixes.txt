@@ -1,1 +1,2 @@
 It have some fixes which is used to resolve the bug.
+another bug
